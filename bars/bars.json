@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Mos Eisley Cantina",
+        "location": "Tatooine",
+        "description": "A wretched hive of scum and villainy. Home to all kinds of species.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_4.jpeg"
+        ],
+        "rating": 4.2
+    },
+    {
+        "name": "Cloud City Lounge",
+        "location": "Bespin",
+        "description": "A luxurious floating lounge with stunning views of the gas giant Bespin.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_4.jpeg"
+        ],
+        "rating": 4.7
+    },
+    {
+        "name": "Jabba's Palace Bar",
+        "location": "Tatooine",
+        "description": "Located within the palace of the notorious gangster Jabba the Hutt.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_4.jpeg"
+        ],
+        "rating": 3.8
+    },
+    {
+        "name": "Endor Ewok Pub",
+        "location": "Endor",
+        "description": "A cozy pub run by the friendly Ewoks of the forest moon of Endor.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_4.jpeg"
+        ],
+        "rating": 4.5
+    },
+    {
+        "name": "Coruscant Club 1313",
+        "location": "Coruscant",
+        "description": "An exclusive club in the lower levels of Coruscant, known for its underworld clientele.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_4.jpeg"
+        ],
+        "rating": 4.0
+    },
+    {
+        "name": "Naboo Waterfront Bistro",
+        "location": "Naboo",
+        "description": "A waterfront bistro offering elegant dining with a view of Naboo's serene lakes.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_4.jpeg"
+        ],
+        "rating": 4.8
+    },
+    {
+        "name": "Kashyyyk Treetop Tavern",
+        "location": "Kashyyyk",
+        "description": "A treetop tavern among the Wookiees' home planet, serving strong Wookiee brews.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_4.jpeg"
+        ],
+        "rating": 4.6
+    },
+    {
+        "name": "Alderaan Wine Bar",
+        "location": "Alderaan",
+        "description": "A wine bar known for its exquisite selection, tragically destroyed with the planet.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_4.jpeg"
+        ],
+        "rating": 4.9
+    },
+    {
+        "name": "Tusken Raider Saloon",
+        "location": "Tatooine",
+        "description": "A saloon known for its rough and tumble clientele, frequented by Tusken Raiders.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_4.jpeg"
+        ],
+        "rating": 3.5
+    },
+    {
+        "name": "Dagobah Swamp Pub",
+        "location": "Dagobah",
+        "description": "A mysterious pub in the swamps of Dagobah, offering unique brews and strange stories.",
+        "images": [
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_1.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_2.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_3.jpeg",
+            "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_4.jpeg"
+        ],
+        "rating": 4.1
+    }
+]
