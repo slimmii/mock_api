@@ -1,0 +1,329 @@
+{
+    "bars": [
+        {
+            "id": 1,
+            "name": "Mos Eisley Cantina",
+            "location": "Tatooine",
+            "description": "A wretched hive of scum and villainy. Home to all kinds of species.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_4.jpeg"
+            ],
+            "rating": 4.2
+        },
+        {
+            "id": 2,
+            "name": "Cloud City Lounge",
+            "location": "Bespin",
+            "description": "A luxurious floating lounge with stunning views of the gas giant Bespin.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_4.jpeg"
+            ],
+            "rating": 4.7
+        },
+        {
+            "id": 3,
+            "name": "Jabba's Palace Bar",
+            "location": "Tatooine",
+            "description": "Located within the palace of the notorious gangster Jabba the Hutt.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_4.jpeg"
+            ],
+            "rating": 3.8
+        },
+        {
+            "id": 4,
+            "name": "Endor Ewok Pub",
+            "location": "Endor",
+            "description": "A cozy pub run by the friendly Ewoks of the forest moon of Endor.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_4.jpeg"
+            ],
+            "rating": 4.5
+        },
+        {
+            "id": 5,
+            "name": "Coruscant Club 1313",
+            "location": "Coruscant",
+            "description": "An exclusive club in the lower levels of Coruscant, known for its underworld clientele.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_4.jpeg"
+            ],
+            "rating": 4.0
+        },
+        {
+            "id": 6,
+            "name": "Naboo Waterfront Bistro",
+            "location": "Naboo",
+            "description": "A waterfront bistro offering elegant dining with a view of Naboo's serene lakes.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/naboo-waterfront-bistro_4.jpeg"
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 7,
+            "name": "Kashyyyk Treetop Tavern",
+            "location": "Kashyyyk",
+            "description": "A treetop tavern among the Wookiees' home planet, serving strong Wookiee brews.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_4.jpeg"
+            ],
+            "rating": 4.6
+        },
+        {
+            "id": 8,
+            "name": "Alderaan Wine Bar",
+            "location": "Alderaan",
+            "description": "A wine bar known for its exquisite selection, tragically destroyed with the planet.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_4.jpeg"
+            ],
+            "rating": 4.9
+        },
+        {
+            "id": 9,
+            "name": "Tusken Raider Saloon",
+            "location": "Tatooine",
+            "description": "A saloon known for its rough and tumble clientele, frequented by Tusken Raiders.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_4.jpeg"
+            ],
+            "rating": 3.5
+        },
+        {
+            "id": 10,
+            "name": "Dagobah Swamp Pub",
+            "location": "Dagobah",
+            "description": "A mysterious pub in the swamps of Dagobah, offering unique brews and strange stories.",
+            "images": [
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_1.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_2.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_3.jpeg",
+                "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_4.jpeg"
+            ],
+            "rating": 4.1
+        }
+    ],
+    "beers": [
+        {
+            "id": 1,
+            "name": "Wookiee Brew",
+            "alcoholPercentage": 6.5,
+            "description": "A hearty ale brewed by Wookiees on Kashyyyk.",
+            "type": "Ale",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/wookiee-brew.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Tatooine Sunset Lager",
+            "alcoholPercentage": 5.0,
+            "description": "A refreshing lager with a hint of desert spice.",
+            "type": "Lager",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/tatooine-sunset.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Sith Stout",
+            "alcoholPercentage": 8.2,
+            "description": "A dark and sinister stout with a strong kick.",
+            "type": "Stout",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/sith-stout.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Ewok Elixir",
+            "alcoholPercentage": 4.8,
+            "description": "An enchanting elixir brewed by the Ewoks of Endor.",
+            "type": "Elixir",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/ewok-elixir.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Alderaan Amber Ale",
+            "alcoholPercentage": 5.5,
+            "description": "A smooth amber ale from the now-destroyed planet of Alderaan.",
+            "type": "Amber Ale",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-amber.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Hutt Hops IPA",
+            "alcoholPercentage": 7.0,
+            "description": "An intensely hoppy IPA with a hint of Hutt spice.",
+            "type": "IPA",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/hutt-hops.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Droid's Delight Pilsner",
+            "alcoholPercentage": 4.2,
+            "description": "A crisp and refreshing pilsner for droids and humans alike.",
+            "type": "Pilsner",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/droids-delight.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Womp Rat Wheat Beer",
+            "alcoholPercentage": 4.7,
+            "description": "A light and wheaty beer inspired by Tatooine's native creatures.",
+            "type": "Wheat Beer",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/womp-rat-wheat.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Rebel Red Ale",
+            "alcoholPercentage": 6.0,
+            "description": "A bold and rebellious red ale for those who fight the Empire.",
+            "type": "Red Ale",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/rebel-red.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Force Field Porter",
+            "alcoholPercentage": 6.8,
+            "description": "A robust porter with a protective Force field of flavor.",
+            "type": "Porter",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/force-field-porter.jpeg"
+        },
+        {
+            "id": 11,
+            "name": "Yoda's Wisdom Saison",
+            "alcoholPercentage": 5.3,
+            "description": "A saison brewed with the wisdom of Master Yoda.",
+            "type": "Saison",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/yodas-wisdom.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Eternal Empire ESB",
+            "alcoholPercentage": 5.7,
+            "description": "An Extra Special Bitter favored by the Eternal Empire's soldiers.",
+            "type": "ESB",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/eternal-empire-esb.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Alderaanian Cider",
+            "alcoholPercentage": 4.0,
+            "description": "A crisp and fruity cider from the lush world of Alderaan.",
+            "type": "Cider",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-cider.jpeg"
+        },
+        {
+            "id": 14,
+            "name": "Dagobah Dark Lager",
+            "alcoholPercentage": 5.6,
+            "description": "A mysterious and dark lager with flavors of Dagobah's swamp.",
+            "type": "Dark Lager",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/dagobah-dark.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Mandalorian Malt Whiskey",
+            "alcoholPercentage": 45.0,
+            "description": "A strong malt whiskey for those with Mandalorian strength.",
+            "type": "Whiskey",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/mandalorian-malt.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Jedi Juice",
+            "alcoholPercentage": 4.5,
+            "description": "A fruity and refreshing juice blend with Jedi-like balance.",
+            "type": "Fruit Juice",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/jedi-juice.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "Sarlacc Sour",
+            "alcoholPercentage": 4.9,
+            "description": "A tart and sour brew inspired by the Sarlacc pit.",
+            "type": "Sour",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/sarlacc-sour.jpeg"
+        },
+        {
+            "id": 18,
+            "name": "Hoth Hefeweizen",
+            "alcoholPercentage": 5.2,
+            "description": "A cloudy hefeweizen with a hint of Hoth's icy chill.",
+            "type": "Hefeweizen",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/hoth-hefe.jpeg"
+        },
+        {
+            "id": 19,
+            "name": "Alderaan Stout",
+            "alcoholPercentage": 6.4,
+            "description": "A rich and bold stout from the heart of Alderaan.",
+            "type": "Stout",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-stout.jpeg"
+        },
+        {
+            "id": 20,
+            "name": "Chewbacca's Chewy Caramel Ale",
+            "alcoholPercentage": 7.5,
+            "description": "A caramel-infused ale inspired by the legendary Wookiee.",
+            "type": "Ale",
+            "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/chewbacca-caramel.jpeg"
+        }
+    ],
+    "users": [
+        { "id": 1, "name": "Luke Skywalker", "email": "luke@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/1.jpeg" },
+        { "id": 2, "name": "Leia Organa", "email": "leia@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/2.jpeg" },
+        { "id": 3, "name": "Han Solo", "email": "han@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/3.jpeg" },
+        { "id": 4, "name": "Darth Vader", "email": "vader@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/4.jpeg" },
+        { "id": 5, "name": "Obi-Wan Kenobi", "email": "obiwan@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/5.jpeg" },
+        { "id": 6, "name": "Princess Amidala", "email": "amidala@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/6.jpeg" },
+        { "id": 7, "name": "Yoda", "email": "yoda@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/7.jpeg" },
+        { "id": 8, "name": "Chewbacca", "email": "chewie@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/8.jpeg" },
+        { "id": 9, "name": "R2-D2", "email": "r2d2@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/9.jpeg" },
+        { "id": 10, "name": "C-3PO", "email": "c3po@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/10.jpeg" }
+    ],
+    "checkins": [
+        {"bar_id":1,"beer_id":1,"user_id":1,"comment":"Kicked back with a Wookiee Brew at Mos Eisley Cantina. The Force is strong with this beer! 🍻","date":"2023-09-01T12:00:00Z"},
+        {"bar_id":2,"beer_id":2,"user_id":2,"comment":"Sipped on the Tatooine Sunset Lager while plotting the Rebellion's next move at Cloud City Lounge. A taste as refreshing as freedom! 🍻","date":"2023-09-02T13:15:00Z"},
+        {"bar_id":3,"beer_id":3,"user_id":3,"comment":"Tried the Sith Stout within Jabba's Palace Bar. It's the only thing darker than my sense of humor! 😄🍺","date":"2023-09-03T14:30:00Z"},
+        {"bar_id":4,"beer_id":4,"user_id":4,"comment":"Relaxed with an Ewok Elixir at Endor Ewok Pub. Even the Dark Side enjoys a taste of the forest moon! 🌲🍹","date":"2023-09-04T16:45:00Z"},
+        {"bar_id":5,"beer_id":5,"user_id":5,"comment":"Tasted the Alderaan Amber Ale at Coruscant Club 1313. A more civilized beer for a more civilized age. Cheers, Jedi! 🍻","date":"2023-09-05T18:00:00Z"},
+        {"bar_id":1,"beer_id":6,"user_id":6,"comment":"Explored the diverse drinks at Mos Eisley Cantina. As elegant as my wardrobe! 👑🍸","date":"2023-09-06T20:15:00Z"},
+        {"bar_id":7,"beer_id":7,"user_id":7,"comment":"Meditated over a Droid's Delight Pilsner. Drunk, I am not. Refreshing, it was! 🧘‍♂️🍺","date":"2023-09-07T22:30:00Z"},
+        {"bar_id":8,"beer_id":8,"user_id":8,"comment":"Enjoyed a Womp Rat Wheat Beer with fellow Wookiees. We roared our approval! 🐾🍻","date":"2023-09-08T10:45:00Z"},
+        {"bar_id":9,"beer_id":9,"user_id":9,"comment":"Sipped on Rebel Red Ale while resisting the Empire. Beep-boop, that's some good beer! 🤖🍺","date":"2023-09-09T09:30:00Z"},
+        {"bar_id":10,"beer_id":10,"user_id":10,"comment":"Experienced the Force Field Porter's unique flavor. A delightful translation of taste! 🤖🍺","date":"2023-09-10T15:30:00Z"},
+        {"bar_id":2,"beer_id":11,"user_id":2,"comment":"Tried Yoda's Wisdom Saison at Cloud City Lounge. Wise choice, it was! 🌌🍻","date":"2023-09-11T17:45:00Z"},
+        {"bar_id":3,"beer_id":12,"user_id":3,"comment":"Enjoyed an Eternal Empire ESB at Jabba's Palace Bar. I shot first... for another round! 🔫🍺","date":"2023-09-12T19:00:00Z"},
+        {"bar_id":4,"beer_id":13,"user_id":4,"comment":"Sipped on a refreshing Alderaanian Cider at Endor Ewok Pub. Even the Dark Side needs something sweet! 🍏🍹","date":"2023-09-13T12:30:00Z"},
+        {"bar_id":5,"beer_id":14,"user_id":5,"comment":"Tasted the mysterious Dagobah Dark Lager at Coruscant Club 1313. The Force was strong with this brew! 🌌🍻","date":"2023-09-14T14:15:00Z"},
+        {"bar_id":6,"beer_id":15,"user_id":6,"comment":"Enjoyed a strong Mandalorian Malt Whiskey at Naboo Waterfront Bistro. It had the diplomacy of a queen and the strength of a Mandalorian! 👑🥃","date":"2023-09-15T16:30:00Z"},
+        {"bar_id":7,"beer_id":16,"user_id":7,"comment":"Tasted the fruity and refreshing Jedi Juice at Kashyyyk Treetop Tavern. Tastes like the Force, it does! 🧘‍♂️🍹","date":"2023-09-16T18:45:00Z"},
+        {"bar_id":8,"beer_id":17,"user_id":8,"comment":"Savored a Sarlacc Sour at Alderaan Wine Bar. Roarrrgh! A sour taste, but a good one! 🐾🍻","date":"2023-09-17T21:00:00Z"},
+        {"bar_id":9,"beer_id":18,"user_id":9,"comment":"Tried the cloudy Hoth Hefeweizen at Tusken Raider Saloon. Beep-beep-boop, a bit chilly! 🤖❄️","date":"2023-09-18T11:15:00Z"},
+        {"bar_id":10,"beer_id":19,"user_id":10,"comment":"Sipped on the rich and bold Alderaan Stout at Dagobah Swamp Pub. Fluent in taste, fluent in flavor! 🤖🍺","date":"2023-09-19T10:00:00Z"}
+    ]  
+}
