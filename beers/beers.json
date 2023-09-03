@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Wookiee Brew",
+        "alcoholPercentage": 6.5,
+        "description": "A hearty ale brewed by Wookiees on Kashyyyk.",
+        "type": "Ale",
+        "logo": "wookiee-brew.jpeg"
+    },
+    {
+        "name": "Tatooine Sunset Lager",
+        "alcoholPercentage": 5.0,
+        "description": "A refreshing lager with a hint of desert spice.",
+        "type": "Lager",
+        "logo": "tatooine-sunset.jpeg"
+    },
+    {
+        "name": "Sith Stout",
+        "alcoholPercentage": 8.2,
+        "description": "A dark and sinister stout with a strong kick.",
+        "type": "Stout",
+        "logo": "sith-stout.jpeg"
+    },
+    {
+        "name": "Ewok Elixir",
+        "alcoholPercentage": 4.8,
+        "description": "An enchanting elixir brewed by the Ewoks of Endor.",
+        "type": "Elixir",
+        "logo": "ewok-elixir.jpeg"
+    },
+    {
+        "name": "Alderaan Amber Ale",
+        "alcoholPercentage": 5.5,
+        "description": "A smooth amber ale from the now-destroyed planet of Alderaan.",
+        "type": "Amber Ale",
+        "logo": "alderaan-amber.jpeg"
+    },
+    {
+        "name": "Hutt Hops IPA",
+        "alcoholPercentage": 7.0,
+        "description": "An intensely hoppy IPA with a hint of Hutt spice.",
+        "type": "IPA",
+        "logo": "hutt-hops.jpeg"
+    },
+    {
+        "name": "Droid's Delight Pilsner",
+        "alcoholPercentage": 4.2,
+        "description": "A crisp and refreshing pilsner for droids and humans alike.",
+        "type": "Pilsner",
+        "logo": "droids-delight.jpeg"
+    },
+    {
+        "name": "Womp Rat Wheat Beer",
+        "alcoholPercentage": 4.7,
+        "description": "A light and wheaty beer inspired by Tatooine's native creatures.",
+        "type": "Wheat Beer",
+        "logo": "womp-rat-wheat.jpeg"
+    },
+    {
+        "name": "Rebel Red Ale",
+        "alcoholPercentage": 6.0,
+        "description": "A bold and rebellious red ale for those who fight the Empire.",
+        "type": "Red Ale",
+        "logo": "rebel-red.jpeg"
+    },
+    {
+        "name": "Force Field Porter",
+        "alcoholPercentage": 6.8,
+        "description": "A robust porter with a protective Force field of flavor.",
+        "type": "Porter",
+        "logo": "force-field-porter.jpeg"
+    },
+    {
+        "name": "Yoda's Wisdom Saison",
+        "alcoholPercentage": 5.3,
+        "description": "A saison brewed with the wisdom of Master Yoda.",
+        "type": "Saison",
+        "logo": "yodas-wisdom.jpeg"
+    },
+    {
+        "name": "Eternal Empire ESB",
+        "alcoholPercentage": 5.7,
+        "description": "An Extra Special Bitter favored by the Eternal Empire's soldiers.",
+        "type": "ESB",
+        "logo": "eternal-empire-esb.jpeg"
+    },
+    {
+        "name": "Alderaanian Cider",
+        "alcoholPercentage": 4.0,
+        "description": "A crisp and fruity cider from the lush world of Alderaan.",
+        "type": "Cider",
+        "logo": "alderaan-cider.jpeg"
+    },
+    {
+        "name": "Dagobah Dark Lager",
+        "alcoholPercentage": 5.6,
+        "description": "A mysterious and dark lager with flavors of Dagobah's swamp.",
+        "type": "Dark Lager",
+        "logo": "dagobah-dark.jpeg"
+    },
+    {
+        "name": "Mandalorian Malt Whiskey",
+        "alcoholPercentage": 45.0,
+        "description": "A strong malt whiskey for those with Mandalorian strength.",
+        "type": "Whiskey",
+        "logo": "mandalorian-malt.jpeg"
+    },
+    {
+        "name": "Jedi Juice",
+        "alcoholPercentage": 4.5,
+        "description": "A fruity and refreshing juice blend with Jedi-like balance.",
+        "type": "Fruit Juice",
+        "logo": "jedi-juice.jpeg"
+    },
+    {
+        "name": "Sarlacc Sour",
+        "alcoholPercentage": 4.9,
+        "description": "A tart and sour brew inspired by the Sarlacc pit.",
+        "type": "Sour",
+        "logo": "sarlacc-sour.jpeg"
+    },
+    {
+        "name": "Hoth Hefeweizen",
+        "alcoholPercentage": 5.2,
+        "description": "A cloudy hefeweizen with a hint of Hoth's icy chill.",
+        "type": "Hefeweizen",
+        "logo": "hoth-hefe.jpeg"
+    },
+    {
+        "name": "Alderaan Stout",
+        "alcoholPercentage": 6.4,
+        "description": "A rich and bold stout from the heart of Alderaan.",
+        "type": "Stout",
+        "logo": "alderaan-stout.jpeg"
+    },
+    {
+        "name": "Chewbacca's Chewy Caramel Ale",
+        "alcoholPercentage": 7.5,
+        "description": "A caramel-infused ale inspired by the legendary Wookiee.",
+        "type": "Ale",
+        "logo": "chewbacca-caramel.jpeg"
+    }
+]
