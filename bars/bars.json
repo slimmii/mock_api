@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Mos Eisley Cantina",
         "location": "Tatooine",
         "description": "A wretched hive of scum and villainy. Home to all kinds of species.",
@@ -12,6 +13,7 @@
         "rating": 4.2
     },
     {
+        "id": 2,
         "name": "Cloud City Lounge",
         "location": "Bespin",
         "description": "A luxurious floating lounge with stunning views of the gas giant Bespin.",
@@ -24,6 +26,7 @@
         "rating": 4.7
     },
     {
+        "id": 3,
         "name": "Jabba's Palace Bar",
         "location": "Tatooine",
         "description": "Located within the palace of the notorious gangster Jabba the Hutt.",
@@ -36,6 +39,7 @@
         "rating": 3.8
     },
     {
+        "id": 4,
         "name": "Endor Ewok Pub",
         "location": "Endor",
         "description": "A cozy pub run by the friendly Ewoks of the forest moon of Endor.",
@@ -48,6 +52,7 @@
         "rating": 4.5
     },
     {
+        "id": 5,
         "name": "Coruscant Club 1313",
         "location": "Coruscant",
         "description": "An exclusive club in the lower levels of Coruscant, known for its underworld clientele.",
@@ -60,6 +65,7 @@
         "rating": 4.0
     },
     {
+        "id": 6,
         "name": "Naboo Waterfront Bistro",
         "location": "Naboo",
         "description": "A waterfront bistro offering elegant dining with a view of Naboo's serene lakes.",
@@ -72,6 +78,7 @@
         "rating": 4.8
     },
     {
+        "id": 7,
         "name": "Kashyyyk Treetop Tavern",
         "location": "Kashyyyk",
         "description": "A treetop tavern among the Wookiees' home planet, serving strong Wookiee brews.",
@@ -84,6 +91,7 @@
         "rating": 4.6
     },
     {
+        "id": 8,
         "name": "Alderaan Wine Bar",
         "location": "Alderaan",
         "description": "A wine bar known for its exquisite selection, tragically destroyed with the planet.",
@@ -96,6 +104,7 @@
         "rating": 4.9
     },
     {
+        "id": 9,
         "name": "Tusken Raider Saloon",
         "location": "Tatooine",
         "description": "A saloon known for its rough and tumble clientele, frequented by Tusken Raiders.",
@@ -108,6 +117,7 @@
         "rating": 3.5
     },
     {
+        "id": 10,
         "name": "Dagobah Swamp Pub",
         "location": "Dagobah",
         "description": "A mysterious pub in the swamps of Dagobah, offering unique brews and strange stories.",

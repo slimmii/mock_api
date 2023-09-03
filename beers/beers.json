@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Wookiee Brew",
         "alcoholPercentage": 6.5,
         "description": "A hearty ale brewed by Wookiees on Kashyyyk.",
@@ -7,6 +8,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/wookiee-brew.jpeg"
     },
     {
+        "id": 2,
         "name": "Tatooine Sunset Lager",
         "alcoholPercentage": 5.0,
         "description": "A refreshing lager with a hint of desert spice.",
@@ -14,6 +16,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/tatooine-sunset.jpeg"
     },
     {
+        "id": 3,
         "name": "Sith Stout",
         "alcoholPercentage": 8.2,
         "description": "A dark and sinister stout with a strong kick.",
@@ -21,6 +24,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/sith-stout.jpeg"
     },
     {
+        "id": 4,
         "name": "Ewok Elixir",
         "alcoholPercentage": 4.8,
         "description": "An enchanting elixir brewed by the Ewoks of Endor.",
@@ -28,6 +32,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/ewok-elixir.jpeg"
     },
     {
+        "id": 5,
         "name": "Alderaan Amber Ale",
         "alcoholPercentage": 5.5,
         "description": "A smooth amber ale from the now-destroyed planet of Alderaan.",
@@ -35,6 +40,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-amber.jpeg"
     },
     {
+        "id": 6,
         "name": "Hutt Hops IPA",
         "alcoholPercentage": 7.0,
         "description": "An intensely hoppy IPA with a hint of Hutt spice.",
@@ -42,6 +48,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/hutt-hops.jpeg"
     },
     {
+        "id": 7,
         "name": "Droid's Delight Pilsner",
         "alcoholPercentage": 4.2,
         "description": "A crisp and refreshing pilsner for droids and humans alike.",
@@ -49,6 +56,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/droids-delight.jpeg"
     },
     {
+        "id": 8,
         "name": "Womp Rat Wheat Beer",
         "alcoholPercentage": 4.7,
         "description": "A light and wheaty beer inspired by Tatooine's native creatures.",
@@ -56,6 +64,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/womp-rat-wheat.jpeg"
     },
     {
+        "id": 9,
         "name": "Rebel Red Ale",
         "alcoholPercentage": 6.0,
         "description": "A bold and rebellious red ale for those who fight the Empire.",
@@ -63,6 +72,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/rebel-red.jpeg"
     },
     {
+        "id": 10,
         "name": "Force Field Porter",
         "alcoholPercentage": 6.8,
         "description": "A robust porter with a protective Force field of flavor.",
@@ -70,6 +80,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/force-field-porter.jpeg"
     },
     {
+        "id": 11,
         "name": "Yoda's Wisdom Saison",
         "alcoholPercentage": 5.3,
         "description": "A saison brewed with the wisdom of Master Yoda.",
@@ -77,6 +88,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/yodas-wisdom.jpeg"
     },
     {
+        "id": 12,
         "name": "Eternal Empire ESB",
         "alcoholPercentage": 5.7,
         "description": "An Extra Special Bitter favored by the Eternal Empire's soldiers.",
@@ -84,6 +96,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/eternal-empire-esb.jpeg"
     },
     {
+        "id": 13,
         "name": "Alderaanian Cider",
         "alcoholPercentage": 4.0,
         "description": "A crisp and fruity cider from the lush world of Alderaan.",
@@ -91,6 +104,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-cider.jpeg"
     },
     {
+        "id": 14,
         "name": "Dagobah Dark Lager",
         "alcoholPercentage": 5.6,
         "description": "A mysterious and dark lager with flavors of Dagobah's swamp.",
@@ -98,6 +112,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/dagobah-dark.jpeg"
     },
     {
+        "id": 15,
         "name": "Mandalorian Malt Whiskey",
         "alcoholPercentage": 45.0,
         "description": "A strong malt whiskey for those with Mandalorian strength.",
@@ -105,6 +120,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/mandalorian-malt.jpeg"
     },
     {
+        "id": 16,
         "name": "Jedi Juice",
         "alcoholPercentage": 4.5,
         "description": "A fruity and refreshing juice blend with Jedi-like balance.",
@@ -112,6 +128,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/jedi-juice.jpeg"
     },
     {
+        "id": 17,
         "name": "Sarlacc Sour",
         "alcoholPercentage": 4.9,
         "description": "A tart and sour brew inspired by the Sarlacc pit.",
@@ -119,6 +136,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/sarlacc-sour.jpeg"
     },
     {
+        "id": 18,
         "name": "Hoth Hefeweizen",
         "alcoholPercentage": 5.2,
         "description": "A cloudy hefeweizen with a hint of Hoth's icy chill.",
@@ -126,6 +144,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/hoth-hefe.jpeg"
     },
     {
+        "id": 19,
         "name": "Alderaan Stout",
         "alcoholPercentage": 6.4,
         "description": "A rich and bold stout from the heart of Alderaan.",
@@ -133,6 +152,7 @@
         "logo": "https://raw.githubusercontent.com/slimmii/mock_api/main/beers/alderaan-stout.jpeg"
     },
     {
+        "id": 20,
         "name": "Chewbacca's Chewy Caramel Ale",
         "alcoholPercentage": 7.5,
         "description": "A caramel-infused ale inspired by the legendary Wookiee.",
