@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Luke Skywalker", "email": "luke@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/1.jpeg" },
+    { "id": 2, "name": "Leia Organa", "email": "leia@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/2.jpeg" },
+    { "id": 3, "name": "Han Solo", "email": "han@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/3.jpeg" },
+    { "id": 4, "name": "Darth Vader", "email": "vader@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/4.jpeg" },
+    { "id": 5, "name": "Obi-Wan Kenobi", "email": "obiwan@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/5.jpeg" },
+    { "id": 6, "name": "Princess Amidala", "email": "amidala@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/6.jpeg" },
+    { "id": 7, "name": "Yoda", "email": "yoda@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/7.jpeg" },
+    { "id": 8, "name": "Chewbacca", "email": "chewie@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/8.jpeg" },
+    { "id": 9, "name": "R2-D2", "email": "r2d2@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/9.jpeg" },
+    { "id": 10, "name": "C-3PO", "email": "c3po@starwars.com", "avatar": "https://raw.githubusercontent.com/slimmii/mock_api/main/users/10.jpeg" }
+]
