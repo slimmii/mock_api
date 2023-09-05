@@ -1,21 +1,164 @@
 [
-    {"bar_id":1,"beer_id":1,"user_id":1,"comment":"Kicked back with a Wookiee Brew at Mos Eisley Cantina. The Force is strong with this beer! 🍻","date":"2023-09-01T12:00:00Z"},
-    {"bar_id":2,"beer_id":2,"user_id":2,"comment":"Sipped on the Tatooine Sunset Lager while plotting the Rebellion's next move at Cloud City Lounge. A taste as refreshing as freedom! 🍻","date":"2023-09-02T13:15:00Z"},
-    {"bar_id":3,"beer_id":3,"user_id":3,"comment":"Tried the Sith Stout within Jabba's Palace Bar. It's the only thing darker than my sense of humor! 😄🍺","date":"2023-09-03T14:30:00Z"},
-    {"bar_id":4,"beer_id":4,"user_id":4,"comment":"Relaxed with an Ewok Elixir at Endor Ewok Pub. Even the Dark Side enjoys a taste of the forest moon! 🌲🍹","date":"2023-09-04T16:45:00Z"},
-    {"bar_id":5,"beer_id":5,"user_id":5,"comment":"Tasted the Alderaan Amber Ale at Coruscant Club 1313. A more civilized beer for a more civilized age. Cheers, Jedi! 🍻","date":"2023-09-05T18:00:00Z"},
-    {"bar_id":1,"beer_id":6,"user_id":6,"comment":"Explored the diverse drinks at Mos Eisley Cantina. As elegant as my wardrobe! 👑🍸","date":"2023-09-06T20:15:00Z"},
-    {"bar_id":7,"beer_id":7,"user_id":7,"comment":"Meditated over a Droid's Delight Pilsner. Drunk, I am not. Refreshing, it was! 🧘‍♂️🍺","date":"2023-09-07T22:30:00Z"},
-    {"bar_id":8,"beer_id":8,"user_id":8,"comment":"Enjoyed a Womp Rat Wheat Beer with fellow Wookiees. We roared our approval! 🐾🍻","date":"2023-09-08T10:45:00Z"},
-    {"bar_id":9,"beer_id":9,"user_id":9,"comment":"Sipped on Rebel Red Ale while resisting the Empire. Beep-boop, that's some good beer! 🤖🍺","date":"2023-09-09T09:30:00Z"},
-    {"bar_id":10,"beer_id":10,"user_id":10,"comment":"Experienced the Force Field Porter's unique flavor. A delightful translation of taste! 🤖🍺","date":"2023-09-10T15:30:00Z"},
-    {"bar_id":2,"beer_id":11,"user_id":2,"comment":"Tried Yoda's Wisdom Saison at Cloud City Lounge. Wise choice, it was! 🌌🍻","date":"2023-09-11T17:45:00Z"},
-    {"bar_id":3,"beer_id":12,"user_id":3,"comment":"Enjoyed an Eternal Empire ESB at Jabba's Palace Bar. I shot first... for another round! 🔫🍺","date":"2023-09-12T19:00:00Z"},
-    {"bar_id":4,"beer_id":13,"user_id":4,"comment":"Sipped on a refreshing Alderaanian Cider at Endor Ewok Pub. Even the Dark Side needs something sweet! 🍏🍹","date":"2023-09-13T12:30:00Z"},
-    {"bar_id":5,"beer_id":14,"user_id":5,"comment":"Tasted the mysterious Dagobah Dark Lager at Coruscant Club 1313. The Force was strong with this brew! 🌌🍻","date":"2023-09-14T14:15:00Z"},
-    {"bar_id":6,"beer_id":15,"user_id":6,"comment":"Enjoyed a strong Mandalorian Malt Whiskey at Naboo Waterfront Bistro. It had the diplomacy of a queen and the strength of a Mandalorian! 👑🥃","date":"2023-09-15T16:30:00Z"},
-    {"bar_id":7,"beer_id":16,"user_id":7,"comment":"Tasted the fruity and refreshing Jedi Juice at Kashyyyk Treetop Tavern. Tastes like the Force, it does! 🧘‍♂️🍹","date":"2023-09-16T18:45:00Z"},
-    {"bar_id":8,"beer_id":17,"user_id":8,"comment":"Savored a Sarlacc Sour at Alderaan Wine Bar. Roarrrgh! A sour taste, but a good one! 🐾🍻","date":"2023-09-17T21:00:00Z"},
-    {"bar_id":9,"beer_id":18,"user_id":9,"comment":"Tried the cloudy Hoth Hefeweizen at Tusken Raider Saloon. Beep-beep-boop, a bit chilly! 🤖❄️","date":"2023-09-18T11:15:00Z"},
-    {"bar_id":10,"beer_id":19,"user_id":10,"comment":"Sipped on the rich and bold Alderaan Stout at Dagobah Swamp Pub. Fluent in taste, fluent in flavor! 🤖🍺","date":"2023-09-19T10:00:00Z"}
+    {
+        "id": 1,
+        "barId": 2,
+        "beerId": 2,
+        "name": "Leia Organa",
+        "comment": "Sipped on the Tatooine Sunset Lager while plotting the Rebellion's next move at Cloud City Lounge. A taste as refreshing as freedom! 🍻",
+        "date": "2022-09-13T16:00:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_0.jpeg"
+    },
+    {
+        "id": 2,
+        "barId": 5,
+        "beerId": 5,
+        "name": "Luke Skywalker",
+        "comment": "Couldn't resist the Alderaan Amber Ale at Coruscant Club 1313 again. A Jedi's choice! 🍻",
+        "date": "2022-09-15T20:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_0.jpeg"
+    },
+    {
+        "id": 3,
+        "barId": 4,
+        "beerId": 4,
+        "name": "Darth Vader",
+        "comment": "Returned to Endor Ewok Pub for another Ewok Elixir. The forest's charm is undeniable! 🌲🍹",
+        "date": "2022-09-04T16:45:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_0.jpeg"
+    },
+    {
+        "id": 4,
+        "barId": 1,
+        "beerId": 1,
+        "name": "Luke Skywalker",
+        "comment": "Kicked back with a Wookiee Brew at Mos Eisley Cantina. The Force is strong with this beer! 🍻",
+        "date": "2022-09-11T12:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_0.jpeg"
+    },
+    {
+        "id": 5,
+        "barId": 1,
+        "beerId": 6,
+        "name": "Princess Amidala",
+        "comment": "Back at Mos Eisley Cantina to explore more drinks. Truly an elegant experience! 👑🍸",
+        "date": "2022-09-06T20:15:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_1.jpeg"
+    },
+    {
+        "id": 6,
+        "barId": 3,
+        "beerId": 3,
+        "name": "Leia Organa",
+        "comment": "Back at Jabba's Palace Bar for another round of Sith Stout. Dark and delicious! 😄🍺",
+        "date": "2022-09-13T16:00:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_0.jpeg"
+    },
+    {
+        "id": 7,
+        "barId": 3,
+        "beerId": 3,
+        "name": "Han Solo",
+        "comment": "Tried the Sith Stout within Jabba's Palace Bar. It's the only thing darker than my sense of humor! 😄🍺",
+        "date": "2022-09-03T14:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/jabbas-palace-bar_0.jpeg"
+    },
+    {
+        "id": 8,
+        "barId": 2,
+        "beerId": 2,
+        "name": "Han Solo",
+        "comment": "Couldn't resist the Tatooine Sunset Lager at Cloud City Lounge again. It's the drink of champions! 🍻",
+        "date": "2022-09-12T14:45:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/cloud-city-lounge_0.jpeg"
+    },
+    {
+        "id": 9,
+        "barId": 4,
+        "beerId": 4,
+        "name": "Darth Vader",
+        "comment": "Relaxed with an Ewok Elixir at Endor Ewok Pub. Even the Dark Side enjoys a taste of the forest moon! 🌲🍹",
+        "date": "2022-09-14T18:15:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/endor-ewok-pub_0.jpeg"
+    },
+    {
+        "id": 10,
+        "barId": 5,
+        "beerId": 5,
+        "name": "Obi-Wan Kenobi",
+        "comment": "Tasted the Alderaan Amber Ale at Coruscant Club 1313. A more civilized beer for a more civilized age. Cheers, Jedi! 🍻",
+        "date": "2022-09-05T18:00:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/coruscant-club-1313_0.jpeg"
+    },
+    {
+        "id": 11,
+        "barId": 9,
+        "beerId": 9,
+        "name": "R2-D2",
+        "comment": "Sipped on Rebel Red Ale while resisting the Empire. Beep-boop, that's some good beer! 🤖🍺",
+        "date": "2022-09-09T09:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/tusken-raider-saloon_0.jpeg"
+    },
+    {
+        "id": 12,
+        "barId": 7,
+        "beerId": 7,
+        "name": "Yoda",
+        "comment": "Meditated over a Droid's Delight Pilsner. Drunk, I am not. Refreshing, it was! 🧘‍♂️🍺",
+        "date": "2022-09-07T22:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/kashyyyk-treetop-tavern_0.jpeg"
+    },
+    {
+        "id": 13,
+        "barId": 8,
+        "beerId": 8,
+        "name": "Chewbacca",
+        "comment": "Enjoyed a Womp Rat Wheat Beer with fellow Wookiees. We roared our approval! 🐾🍻",
+        "date": "2022-09-08T10:45:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/alderaan-wine-bar_0.jpeg"
+    },
+    {
+        "id": 14,
+        "barId": 10,
+        "beerId": 10,
+        "name": "C-3PO",
+        "comment": "Experienced the Force Field Porter's unique flavor. A delightful translation of taste! 🤖🍺",
+        "date": "2022-09-10T15:30:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_0.jpeg"
+    },
+    {
+        "id": 15,
+        "barId": 1,
+        "beerId": 1,
+        "name": "Obi-Wan Kenobi",
+        "comment": "Had another Wookiee Brew at Mos Eisley Cantina. May the Force be with this brew! 🍻",
+        "date": "2022-09-01T12:00:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_0.jpeg"
+    },
+    {
+        "id": 16,
+        "barId": 1,
+        "beerId": 1,
+        "name": "Princess Amidala",
+        "comment": "Explored the diverse drinks at Mos Eisley Cantina. As elegant as my wardrobe! 👑🍸",
+        "date": "2022-09-16T22:45:00Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/mos-eisley-cantina_1.jpeg"
+    },
+    {
+        "barId": 10,
+        "beerId": 16,
+        "name": "Jon Doe",
+        "comment": "It was moist there!",
+        "date": "2023-09-04T18:44:21.168Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_1.jpeg",
+        "id": 17
+    },
+    {
+        "barId": 10,
+        "beerId": 16,
+        "name": "Jon Doe",
+        "comment": "Hey I really liked it!!",
+        "date": "2023-09-04T18:44:33.194Z",
+        "image": "https://raw.githubusercontent.com/slimmii/mock_api/main/bars/dagobah-swamp-pub_3.jpeg",
+        "id": 18
+    }
 ]
